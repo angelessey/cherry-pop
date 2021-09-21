@@ -1,2 +1,2 @@
-# cherry-pop
+# Cherry Pop
 cherry pop for xoblite
