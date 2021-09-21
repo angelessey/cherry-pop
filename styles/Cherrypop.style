@@ -1,0 +1,115 @@
+! ---------------------------------------------------
+! Cherry Pop by angelessey
+! qwilk_AT_xoblite_DOT_net
+! http://xoblite.net/
+! March 15th, 2021
+! ---------------------------------------------------
+
+style.name:		Cherry Pop
+style.author:		angelessey
+style.date:		May 2021
+style.credits:		all thanks to niivu for the inspo!
+style.comments:		http://xoblite.net/
+style.wallpaper:		(see credits.txt)
+
+! --------------------------------------------------
+
+toolbar.appearance: Flat Solid
+toolbar.color: #BD3435
+toolbar.font: Inter/8/Normal
+toolbar.alignment: Center
+toolbar.textColor: #ffffff
+toolbar.marginWidth: 2
+toolbar.borderWidth: 0
+
+toolbar.label.appearance: ParentRelative
+toolbar.label.font: Blank/1/Normal
+toolbar.label.alignment: left
+toolbar.label.textColor: #ffffff
+toolbar.label.marginWidth: 1
+
+toolbar.windowLabel.appearance: Flat Solid
+toolbar.windowLabel.color: #BD3435
+toolbar.windowLabel.font: Inter/8/Normal
+toolbar.windowLabel.alignment: Center
+toolbar.windowLabel.textColor: #ffffff
+toolbar.windowLabel.marginWidth: 2
+
+toolbar.clock.appearance: ParentRelative
+toolbar.clock.font: Inter/8/Normal
+toolbar.clock.alignment: Center
+toolbar.clock.textColor: #ffffff
+toolbar.clock.marginWidth: 1
+
+toolbar.button.appearance: ParentRelative
+toolbar.button.picColor: #BD3435
+toolbar.button.marginWidth: 1
+
+toolbar.button.pressed.appearance: Flat Solid
+toolbar.button.pressed.color: #BD3435
+toolbar.button.pressed.picColor: #BD3435
+toolbar.button.pressed.marginWidth: 2
+
+! --------------------------------------------------
+
+menu.title.appearance: Flat Solid
+menu.title.color: #ffffff
+menu.title.font: Blank/1/Normal
+menu.title.alignment: Left
+menu.title.textColor: #ffffff
+menu.title.shadowColor: #ffffff
+menu.title.marginWidth: 2
+menu.title.borderWidth: 0
+
+menu.frame.appearance: Flat Solid
+menu.frame.color: #BD3435
+menu.frame.font: Inter/7/Normal
+menu.frame.alignment: Left
+menu.frame.textColor: #ffffff
+menu.frame.disabledColor: #ffffff
+menu.frame.bulletColor: #ffffff
+menu.frame.marginWidth: 2
+menu.frame.borderWidth: 0
+
+menu.active.appearance: Flat Solid
+menu.active.color: #BD3435
+menu.active.textColor: #ffffff
+menu.active.bulletColor: #ffffff
+menu.active.marginWidth: 3
+menu.active.borderWidth: 0
+menu.active.borderColor: #ffffff
+
+menu.grip.appearance: Flat Solid
+menu.grip.color: #ffffff
+menu.grip.font: Blank/1/Normal
+menu.grip.alignment: Left
+menu.grip.textColor: #ffffff
+menu.grip.marginWidth: 0
+menu.grip.borderWidth: 0
+
+menu.indicator.appearance: Flat Solid
+menu.indicator.color: #ffffff
+menu.indicator.marginWidth: 2
+menu.indicator.borderWidth: 2
+
+menu.separator.appearance: Flat Solid
+menu.separator.color: #BD3435
+
+menu.bullet: Triangle
+menu.bullet.position: Right
+
+! --------------------------------------------------
+
+dock.appearance: Flat Solid
+dock.color: #32363A
+dock.marginWidth: 2
+dock.borderWidth: 0
+
+! --------------------------------------------------
+
+console.color: #32363A
+console.textColor: #77737A
+console.buttonColor: #77737A
+console.font: Segoe UI/8/Normal
+
+! --------------------------------------------------
